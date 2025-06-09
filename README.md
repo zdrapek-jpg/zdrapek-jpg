@@ -66,18 +66,24 @@ A fully customizable multi-layer neural network written in Python. Built from sc
 - Modular design with separated **Layer** and **Network** classes
 - Data shuffling across epochs to prevent overfitting and leakage
 - Built-in data validation utilities
-<!--
-**zdrapek-jpg/zdrapek-jpg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Example usage:
+Data preprocessing
 
-Here are some ideas to get you started:
-# Projekt Bank Client leave prediction
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+### 🔧 Installation
+
+requrements 
+pip install python==3.10.11
+pip install numpy==1.26.4
+pip install pandas==2.2.3
+pip install matplotlib==3.7.0
+pip install torch==2.0.1
+pip install scikit-learn==1.4.1
+
+```bash
+git clone https://github.com/zdrapek-jpg/Data_Science.git
+cd Data_Science/Gui_szkolenie_4
+
+
