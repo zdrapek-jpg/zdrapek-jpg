@@ -43,20 +43,29 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ★★★☆☆
 
 
-## Projekt Bank Client leave prediction
+## Bank client leave prediction
 **Pogrubienie**  Tools Stack  for Python 3.10.11:
 - **numpy  1.26.4**
 - **pandas 2.2.3**
 - **matplotlib 3.7.0**
 - **json 2.0.9**
 - **tkinter 8.6**
-Project consept was for writing **multi layers network** with backpropagation, optimizing algorithms like **Adam** or **RMSprop** applying **batch gradient descent**, **mini batch gradient descent** or **SGD** and make this flexible for any data,number of layers and algorithm for prediction simple classes 0, 1.
-Also every step in data preprocessing is made on my own:
-1. I have written logic for standarization of data by *Z-SCORE*, *MEAN-SCORE*,*NORMALIZATION*,*LOG-SCALLING* and simply point with alredy saved parameters.
-2. *One-hot-encoder* written by myself from scratch also *Label-encoder* and  all methods that are necessery in data transformations.
-3. Splitted functionalities of Layer and Network so they are independent and work together in process of training.
-4. Data that are passed into traiging method are stack in grups that are changed every epoch so we can better react to overfitting and data leak.
-5. I created Class that check data for any missing values empty fields and any errors in target colum.
+  
+---
+A fully customizable multi-layer neural network written in Python. Built from scratch without external machine learning libraries, this tool enables clean data preprocessing, flexible model configuration, and robust training using advanced gradient descent algorithms.
+## 🌟 Key Features
+---
+
+- Fully self-coded neural network layers with backpropagation
+- Support for **Adam**, **RMSprop**, **SGD**, **Batch** and **Mini-Batch Gradient Descent**
+- Complete custom data preprocessing including:
+  - Standardization (`Z-Score`, `Mean-Score`)
+  - Normalization, Log Scaling
+  - One-Hot Encoding & Label Encoding
+- Configurable network architecture (number of layers, activations, etc.)
+- Modular design with separated **Layer** and **Network** classes
+- Data shuffling across epochs to prevent overfitting and leakage
+- Built-in data validation utilities
 <!--
 **zdrapek-jpg/zdrapek-jpg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
