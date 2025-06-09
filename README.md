@@ -8,6 +8,9 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+[Math](https://img.shields.io/badge/Math-logic%20and%20models-blue?style=for-the-badge)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![JPA](https://img.shields.io/badge/JPA-Java%20Persistence%20API-orange?style=for-the-badge)
 
 ## Projekt Bank Client leave prediction
 **Pogrubienie**  Tools Stack  for Python 3.10.11:
