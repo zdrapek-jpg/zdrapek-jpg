@@ -2,13 +2,34 @@
 
 ## My Skills 🧠
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ★★★☆☆ 
+
+---
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ★★☆☆☆
+
+---
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) ★★★☆☆  
+
+---
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) ★★☆☆☆  
+
+---
+
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ★★★☆☆  
+
+---
+
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=NumPy&logoColor=white) ★★★☆☆ 
+
+---
+
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white) 
+
+---
+
 ![Math](https://img.shields.io/badge/Math-logic%20and%20models-blue?style=for-the-badge) ★★★★☆  
+
+---
+
 ![Data Analysis](https://img.shields.io/badge/Data%20Analysis-insights%20from%20data-9c27b0?style=for-the-badge&logo=chart-bar&logoColor=white) ★★★☆☆
 
 
