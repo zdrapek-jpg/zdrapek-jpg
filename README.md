@@ -4,6 +4,8 @@
 
 ### 🐍 Programming Languages  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ★★★★☆  [project](https://github.com/zdrapek-jpg/Data_Science/tree/main/Gui_szkolenie_4)
+
+---
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ★★★★☆ [project](https://github.com/zdrapek-jpg/RezerwacjaWizyt1)
 
 
