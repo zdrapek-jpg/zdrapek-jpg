@@ -19,7 +19,7 @@ Currently learning [Image Recognization and text recognization](https://www.udem
 
 
 ### 🧠 Machine Learning & Data Science 
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) ★★★☆☆  
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) ★★★☆☆  [project](https://github.com/zdrapek-jpg/Data_Science/tree/main/Gui_szkolenie_4/torch_z_sets)
 
 ---
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) ★★☆☆☆  
@@ -39,7 +39,7 @@ Currently learning [Image Recognization and text recognization](https://www.udem
 
 ### 📊 Data & Visualization Tools  
 
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ★★★☆☆  
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ★★★☆☆  [data analysis](https://github.com/zdrapek-jpg/Data_Science/tree/main/Gui_szkolenie_4/Data)
 
 ---
 ![Data Analysis](https://img.shields.io/badge/Data%20Analysis-insights%20from%20data-9c27b0?style=for-the-badge&logo=chart-bar&logoColor=white) ★★★☆☆
