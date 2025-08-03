@@ -31,8 +31,7 @@ Currently learning [Image Recognization and text recognization](https://www.udem
 
 ---
 
-![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white) 
-
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)  , [project](https://github.com/zdrapek-jpg/Data_Science/tree/main/Algorytmy_minimalno_odleglosciowe/K_nn)
 ---
 
 ![Math](https://img.shields.io/badge/Math-logic%20and%20models-blue?style=for-the-badge) ★★★★☆  
