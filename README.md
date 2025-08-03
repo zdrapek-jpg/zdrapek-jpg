@@ -49,7 +49,7 @@ Currently learning [Image Recognization and text recognization](https://www.udem
 
 ---
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ★★★☆☆
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ★★★☆☆   [project](https://github.com/zdrapek-jpg/SQL_database)
 
 
 
