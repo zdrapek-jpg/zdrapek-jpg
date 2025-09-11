@@ -3,6 +3,7 @@ From 2023 Tutoring math in primary and secondary school pupils<br>
 From 2022 studying Information with Programming at [Wyższa Szkoła Informatyki i Zarządzania](https://wsiz.edu.pl/dla-kandydata/studia-1-stopnia/programowanie)<br>
 Learning **Python**, **Java**, **Advance  Math**, **Data Analysis**,**Machine Learning Algorithms** &  **Data Structures** <br>
 Currently learning [Image Recognization and text recognization](https://www.udemy.com/course/deep-learning-w-jezyku-python/?couponCode=MT240725G1)<br>
+and <br>    [Spring Boot Fullstack Applications with JPA and OOP](https://github.com/zdrapek-jpg/RezerwacjaWizyt1)
 
 ## 📊 Most Used Languages
 
